@@ -68,7 +68,7 @@ Heart_Disease_Project/
 
 ### 1️⃣ Clone the Repository  
 
-git clone https://github.com/YOUR-USERNAME/heart-disease-prediction.git
+git clone https://github.com/ExpiredEng/heart-disease-prediction.git
 cd heart-disease-prediction
 
 ### 2️⃣ Install Dependencies
@@ -109,11 +109,11 @@ The dataset comes from the UCI Heart Disease Database:
 
 ✨ Author
 
-👤 Basel Ashraf Hassan Hellal
-📧 [Your Email or GitHub Profile]
+👤 Elsayed Ashraf Bakry
+📧 [sayedworkacc@gmail.com]
 
 
 ---
 
-Do you also want me to give you a **ready-made requirements.txt** (so anyone cloning your repo can set it up in one step)?
+
 
