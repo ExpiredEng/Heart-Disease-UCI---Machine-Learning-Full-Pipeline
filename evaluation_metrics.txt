@@ -1,0 +1,52 @@
+===============================
+ Heart Disease ML Evaluation
+===============================
+
+📊 Dataset:
+- Source: UCI Heart Disease Dataset
+- Train/Test Split: 80/20
+- Features Used: [age, sex, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, slope, ca, thal]
+
+-------------------------------
+ Logistic Regression
+-------------------------------
+Accuracy   : 0.85
+Precision  : 0.83
+Recall     : 0.86
+F1-score   : 0.84
+ROC-AUC    : 0.90
+
+-------------------------------
+ Decision Tree
+-------------------------------
+Accuracy   : 0.78
+Precision  : 0.76
+Recall     : 0.79
+F1-score   : 0.77
+ROC-AUC    : 0.82
+
+-------------------------------
+ Random Forest
+-------------------------------
+Accuracy   : 0.88
+Precision  : 0.87
+Recall     : 0.89
+F1-score   : 0.88
+ROC-AUC    : 0.93
+
+-------------------------------
+ Support Vector Machine (SVM)
+-------------------------------
+Accuracy   : 0.86
+Precision  : 0.85
+Recall     : 0.87
+F1-score   : 0.86
+ROC-AUC    : 0.91
+
+-------------------------------
+ ✅ Best Performing Model: Random Forest
+-------------------------------
+- Highest Accuracy & ROC-AUC.
+- Robust to feature noise.
+- Selected as final model for deployment.
+
