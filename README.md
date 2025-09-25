@@ -30,39 +30,6 @@ The project also includes a **Streamlit web app** for real-time predictions, and
   - streamlit (for the web app)  
 - **Optional:** Ngrok (for public deployment)  
 
----
-
-## 📂 Project Structure  
-Heart_Disease_Project/
-│── data/
-│ └── heart_disease.csv
-│
-├── notebooks/
-│ ├── 01_data_preprocessing.ipynb
-│ ├── 02_pca_analysis.ipynb
-│ ├── 03_feature_selection.ipynb
-│ ├── 04_supervised_learning.ipynb
-│ ├── 05_unsupervised_learning.ipynb
-│ └── 06_hyperparameter_tuning.ipynb
-│
-├── models/
-│ └── final_model.pkl
-│
-├── ui/
-│ └── app.py # Streamlit UI
-│
-├── results/
-│ └── evaluation_metrics.txt
-│
-├── deployment/
-│ └── ngrok_setup.txt
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-
-
----
 
 ## 🚀 How to Run  
 
@@ -114,6 +81,7 @@ The dataset comes from the UCI Heart Disease Database:
 
 
 ---
+
 
 
 
